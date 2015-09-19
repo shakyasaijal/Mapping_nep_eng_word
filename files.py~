@@ -1,4 +1,3 @@
-#test code to generate frequency of nepali and english words in file
 import codecs
 
 file=codecs.open(r'nepalii.txt', 'r', 'UTF-8')
